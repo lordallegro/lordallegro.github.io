@@ -1,0 +1,23 @@
+body{
+      background: url(images/1329116431.jpg) no-repeat;
+    text-align: center;
+ 
+ 
+       
+}
+
+
+.down{
+      padding-bottom: 10px;
+}
+  
+#poem{
+       font-size: 21px;
+       font-family: "Monotype Corsiva" cursive;
+       font-style: italic;
+       line-height: 1.3em;
+color: yellow;
+
+       
+}
+
